@@ -1,9 +1,9 @@
 # SingleLink
 SingleLink é um framework iOS para monitorar eventos em suas aplicações.
 
-- [Installation](#installation)
+- [Instalação](#Instalação)
 
-## Installation
+## Instalação
 
 ### CocoaPods
 
