@@ -15,14 +15,14 @@ pod 'SingleLink'
 
 ### Usage
 
-Traking on instalation
+Tracking on instalation
 ```swift
 
 SingleLink.sharedInstance()?.trackOnInstall()
 
 ```
 
-Traking on create
+Tracking on create
 ```swift
 
 SingleLink.sharedInstance()?.trackOnCreate()
